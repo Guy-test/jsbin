@@ -76,7 +76,7 @@
     "should": "~8.3.1",
     "sinon": "~1.17.4",
     "grunt-cli": "~1.2.0",
-    "mocha-casperjs": "~0.5.0",
+    "mocha-casperjs": "~0.5.7",
     "hbs-utils": "0.0.3",
     "mocha": "~2.4.5"
   },
