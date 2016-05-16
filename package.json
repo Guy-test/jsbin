@@ -52,7 +52,7 @@
     "mysql": "~2.10.2",
     "nodemailer": "2.3.2",
     "passport": "~0.3.2",
-    "passport-dropbox-oauth2": "~1.0.0",
+    "passport-dropbox-oauth2": "~1.1.0",
     "passport-github": "~1.1.0",
     "promise": "~7.1.1",
     "replify": "~1.2.0",
