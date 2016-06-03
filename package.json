@@ -81,7 +81,7 @@
     "mocha": "~2.4.5"
   },
   "optionalDependencies": {
-    "zmq": "~2.15.1"
+    "zmq": "~2.15.3"
   },
   "engines": {
     "node": ">=0.10.16 <0.11"
