@@ -26,7 +26,7 @@
     "postupdate": "node build/post-update.js commit"
   },
   "dependencies": {
-    "async": "~1.5.2",
+    "async": "~2.0.0",
     "asyncjs": "0.0.10",
     "aws-sdk": "^2.0.18",
     "axon": "~2.0.0",
