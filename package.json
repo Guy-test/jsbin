@@ -23,7 +23,9 @@
     ":install": "build/install.js",
     "postinstall": "grunt build",
     "preupdate": "node build/pre-update.js",
-    "postupdate": "node build/post-update.js commit"
+    "postupdate": "node build/post-update.js commit",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "dependencies": {
     "async": "~1.5.2",
@@ -36,7 +38,7 @@
     "commander": "2.9.0",
     "debug": "^2.2.0",
     "dropbox": "~0.10.2",
-    "express": "4.13.4",
+    "express": "4.14.0",
     "express-cookie-blacklist": "~2.0.0",
     "express-hbs": "^1.0.1",
     "feature-gateway": "0.0.4",
@@ -66,7 +68,8 @@
     "underscore": "~1.8.3",
     "uuid": "^2.0.1",
     "validate-vat": "^0.3.2",
-    "validator": "^5.2.0"
+    "validator": "^5.2.0",
+    "snyk": "^1.17.2"
   },
   "devDependencies": {
     "grunt": "~1.0.1",
@@ -86,5 +89,6 @@
   "engines": {
     "node": ">=0.10.16 <0.11"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "snyk": true
 }
