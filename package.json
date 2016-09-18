@@ -64,7 +64,7 @@
     "stylus": "^0.54.5",
     "undefsafe": "1.1.0",
     "underscore": "~1.8.3",
-    "uuid": "^2.0.1",
+    "uuid": "^2.0.3",
     "validate-vat": "^0.3.2",
     "validator": "^5.2.0"
   },
