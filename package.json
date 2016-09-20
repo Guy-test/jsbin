@@ -56,7 +56,7 @@
     "passport-github": "~1.1.0",
     "promise": "~7.1.1",
     "replify": "~1.2.0",
-    "rsvp": "~3.2.1",
+    "rsvp": "~3.3.2",
     "semver": "^5.0.3",
     "soak": "0.3.0",
     "sqlite3": "~3.1.3",
