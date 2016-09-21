@@ -48,7 +48,7 @@
     "lynx": "~0.2.0",
     "lz-string": "~1.4.4",
     "memcached": "git://github.com/3rd-Eden/node-memcached#10733b0e487793dde1d3a4f9201b1ec41c0be0c6",
-    "moment": "~2.13.0",
+    "moment": "~2.15.1",
     "mysql": "~2.10.2",
     "nodemailer": "2.3.2",
     "passport": "~0.3.2",
