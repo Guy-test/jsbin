@@ -78,7 +78,7 @@
     "grunt-cli": "~1.2.0",
     "mocha-casperjs": "~0.5.0",
     "hbs-utils": "0.0.3",
-    "mocha": "~2.4.5"
+    "mocha": "~3.1.0"
   },
   "optionalDependencies": {
     "zmq": "~2.15.1"
