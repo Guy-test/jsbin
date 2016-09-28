@@ -32,7 +32,7 @@
     "axon": "~2.0.0",
     "bcrypt-nodejs": "0.0.3",
     "bin-to-file": "0.0.5",
-    "clone": "~1.0.2",
+    "clone": "~2.0.0",
     "commander": "2.9.0",
     "debug": "^2.2.0",
     "dropbox": "~0.10.2",
