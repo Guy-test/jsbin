@@ -36,7 +36,7 @@
     "commander": "2.9.0",
     "debug": "^2.2.0",
     "dropbox": "~0.10.2",
-    "express": "4.13.4",
+    "express": "4.15.5",
     "express-cookie-blacklist": "~2.0.0",
     "express-hbs": "^1.0.1",
     "feature-gateway": "0.0.4",
