@@ -42,7 +42,7 @@
     "feature-gateway": "0.0.4",
     "file-db": "0.0.2",
     "flatten.js": "0.1.0",
-    "handlebars": "~4.0.5",
+    "handlebars": "~4.7.7",
     "jade": "~1.11.0",
     "less": "~2.7.0",
     "lynx": "~0.2.0",
