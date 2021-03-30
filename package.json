@@ -63,7 +63,7 @@
     "stripe": "~4.6.0",
     "stylus": "^0.54.5",
     "undefsafe": "1.1.0",
-    "underscore": "~1.8.3",
+    "underscore": "~1.12.1",
     "uuid": "^2.0.1",
     "validate-vat": "^0.3.2",
     "validator": "^5.2.0"
