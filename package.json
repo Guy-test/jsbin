@@ -38,7 +38,7 @@
     "dropbox": "~0.10.2",
     "express": "4.13.4",
     "express-cookie-blacklist": "~2.0.0",
-    "express-hbs": "^1.0.1",
+    "express-hbs": "^2.3.5",
     "feature-gateway": "0.0.4",
     "file-db": "0.0.2",
     "flatten.js": "0.1.0",
